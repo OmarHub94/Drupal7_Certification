@@ -1,4 +1,4 @@
-# Certification: Drupal 7 Module Development.
+#Certification: Drupal 7 Module Development.
 
 Drupal 7 module_hero: fully functional custom Drupal 7 module from scratch.
 
