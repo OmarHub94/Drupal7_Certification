@@ -1,5 +1,9 @@
-Certification: Drupal 7 Module Development.
+# Drupal8_module
+Certification: Drupal 8 Module Development.
 
-Drupal 7 module_hero: fully functional custom Drupal 7 module from scratch.
+fb_feed_block: fully functional custom Drupal 7 module from scratch.
+Module that displays a block on my website containing posts from a Facebook Page.
 
 Link to my certification: https://www.udemy.com/share/103zDEBkcacl5RTHo=/
+
+
